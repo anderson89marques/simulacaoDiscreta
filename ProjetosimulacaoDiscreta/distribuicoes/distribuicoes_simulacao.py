@@ -22,9 +22,11 @@ class Distribuicao:
 
     #no mínimo k sucessos
     def binomialB(self, n, p, k):
-        r=0.0
+        r = 0.0
         for x in range(k-1, n):
-            r += self.binomialA(n, p, x+1)
+            c = self.binomialA(n, p, x+1)
+            print("%f : %d" %(c, x+1))
+            r += c
         return r
 
     def geometrica(self, n, p):
@@ -35,4 +37,13 @@ class Distribuicao:
                 r *= q
             else:
                 r *= p
+        return r
+
+    #antes do n-ésimo ensaio
+    def geometricaB(self, n, p):
+        r = 0.0
+        for x in range(n-1):
+            c = self.geometrica(x+1, p)
+            print("%f : %d" %(c, x+1))
+            r += c
         return r
