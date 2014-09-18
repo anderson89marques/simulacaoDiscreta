@@ -20,6 +20,13 @@ class Distribuicao:
                 r *= q
         return self.combinacao(n, k) * r
 
+    #no mínimo k sucessos
+    def binomialB(self, n, p, k):
+        r=0.0
+        for x in range(k-1, n):
+            r += self.binomialA(n, p, x+1)
+        return r
+
     def geometrica(self, n, p):
         r = 1.0
         q = 1-p
