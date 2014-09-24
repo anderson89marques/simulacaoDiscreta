@@ -47,3 +47,6 @@ class Distribuicao:
             print("%f : %d" %(c, x+1))
             r += c
         return r
+
+    def hipergeometrica(self, M, m, E, e):
+        return self.combinacao(M, m) * self.combinacao(E, e)/ self.combinacao(M+E, m+e)
