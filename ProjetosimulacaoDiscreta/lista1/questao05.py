@@ -1,9 +1,9 @@
 __author__ = 'anderson'
 import random
 
-urna0 = ["v", "v", "p"]
-urna1 = ["v", "v", "v", "v", "v", "p", "p"]
-urna2 = ["p", "p", "p", "p", "p", "v"]
+urna0 = ["v", "v", "p"] #urna 1
+urna1 = ["v", "v", "v", "v", "v", "p", "p"] #urna 2
+urna2 = ["p", "p", "p", "p", "p", "v"] #urna 3
 urnas = [urna0, urna1, urna2]
 experimentos = 10000
 cont = 0
