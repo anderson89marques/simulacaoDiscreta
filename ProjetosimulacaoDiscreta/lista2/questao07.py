@@ -8,8 +8,8 @@ tamB = len(urnaB)
 soma = 0
 
 for x in range(101):
-    a = urnaA[randint(0,tamA-1)]
-    b = urnaB[randint(0,tamB-1)]
+    a = urnaA[randint(0, tamA-1)]
+    b = urnaB[randint(0, tamB-1)]
     soma += a
     soma -= b
 
