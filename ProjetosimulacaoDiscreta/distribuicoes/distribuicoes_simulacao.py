@@ -1,4 +1,5 @@
 __author__ = 'andersonmarques'
+import random
 
 class Distribuicao:
     def combinacao(self, n, k):
@@ -29,6 +30,14 @@ class Distribuicao:
             r += c
         return r
 
+    #retorna o número de sucessos
+    def binomial_simulada(self, n, p,):
+        cont = 0
+        for i in range(n):
+            if random.uniform(0, 1) <= p:
+                cont += 1
+        return cont
+
     def geometrica(self, n, p):
         r = 1.0
         q = 1-p
@@ -47,6 +56,15 @@ class Distribuicao:
             print("%f : %d" %(c, x+1))
             r += c
         return r
+
+    def geometrica_simulada(self, n, p):
+        sucesso = False
+        for i in range(1, n+1):
+            if random.uniform(0, 1) <= p and i == n:
+                sucesso = True
+        return sucesso
+
+
 
     def hipergeometrica(self, M, m, E, e):
         return self.combinacao(M, m) * self.combinacao(E, e)/ self.combinacao(M+E, m+e)
