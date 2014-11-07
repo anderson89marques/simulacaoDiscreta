@@ -2,6 +2,7 @@ from sqlalchemy.sql.functions import concat
 
 __author__ = 'andersonmarques'
 import random
+import math
 
 class Distribuicao:
     def combinacao(self, n, k):
@@ -28,12 +29,11 @@ class Distribuicao:
         r = 0.0
         for x in range(k-1, n):
             c = self.binomialA(n, p, x+1)
-            print("%f : %d" %(c, x+1))
             r += c
         return r
 
     #retorna o número de sucessos
-    def binomial_simulada(self, n, p,):
+    def binomial_simulada(self, n, p):
         cont = 0
         for i in range(n):
             if random.uniform(0, 1) <= p:
@@ -75,6 +75,29 @@ class Distribuicao:
                 sucesso = True
         return sucesso
 
+    #retorna em qual ensaio que aconteceu o sucesso
+    def geometrica_simuladaGeral(self,n ,p):
+        k = n+1 #caso só tenha insucesso, retorna um valor acima de n
+        for i in range(1, n+1):
+            r = random.uniform(0, 1)
+            if r <= p:
+                k = i
+                break
+        return k
+
+    def poisson_analitica(self,lamb, k):
+        return ((lamb**k) * math.exp(-lamb)) / self.fat(k)
+
+    def poisson_analiticaB(self, lamb, k1, k2):
+        r = 0
+        for x in range(k1, k2+1):
+            r += self.poisson_analitica(lamb, x)
+        return r
+
+    def poisson_por_binomial(self, lamb):
+        n = 1500 #n grande
+        p = lamb/n
+        return self.binomial_simulada(n, p)
 
 
     def hipergeometrica(self, M, m, E, e):

@@ -6,6 +6,7 @@ cont = 0
 
 distri = Distribuicao()
 for i in range(experimentos):
-    if distri.geometrica_simulada(4, 0.3):
+    r = distri.geometrica_simuladaGeral(4, 0.3)
+    if r == 4:
         cont += 1
 print("Probabilidade de obter sucesso exatamente no quarto ensaio é de aproximadamente %.4f" % (cont/experimentos))
