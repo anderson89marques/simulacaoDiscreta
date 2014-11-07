@@ -1,3 +1,5 @@
+from sqlalchemy.sql.functions import concat
+
 __author__ = 'andersonmarques'
 import random
 
@@ -38,6 +40,7 @@ class Distribuicao:
                 cont += 1
         return cont
 
+    #exatamente no n-ésimo ensaio
     def geometrica(self, n, p):
         r = 1.0
         q = 1-p
@@ -53,14 +56,22 @@ class Distribuicao:
         r = 0.0
         for x in range(n-1):
             c = self.geometrica(x+1, p)
-            print("%f : %d" %(c, x+1))
             r += c
         return r
 
+    #exatamente no n-ésimo ensaio
     def geometrica_simulada(self, n, p):
         sucesso = False
+        ok = False
+        cont_insusseso_ensaio = 0
+
         for i in range(1, n+1):
-            if random.uniform(0, 1) <= p and i == n:
+            r = random.random()
+            if r > p and i < n:
+                cont_insusseso_ensaio += 1
+            if r <= p and i == n:
+                ok = True
+            if cont_insusseso_ensaio == n-1 and ok:
                 sucesso = True
         return sucesso
 
