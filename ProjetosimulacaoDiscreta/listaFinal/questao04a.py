@@ -1,7 +1,9 @@
-__author__ = 'andersonmarques'
+__author__ = 'anderson'
 
 from distribuicoes.distribuicoes_simulacao import Distribuicao
 
 distri = Distribuicao()
 
-print("%.4f" % distri.binomialA(40, 0.58, 25))
+p = distri.poisson_analiticaB(20, 18, 25)
+
+print("%.4f" % p)

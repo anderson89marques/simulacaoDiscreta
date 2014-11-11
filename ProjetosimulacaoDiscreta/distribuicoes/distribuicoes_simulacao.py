@@ -97,6 +97,7 @@ class Distribuicao:
     def poisson_por_binomial(self, lamb):
         n = 1500 #n grande
         p = lamb/n
+        print(p)
         return self.binomial_simulada(n, p)
 
 
