@@ -85,7 +85,7 @@ class Distribuicao:
                 break
         return k
 
-    def poisson_analitica(self,lamb, k):
+    def poisson_analitica(self, lamb, k):
         return ((lamb**k) * math.exp(-lamb)) / self.fat(k)
 
     def poisson_analiticaB(self, lamb, k1, k2):
@@ -99,6 +99,32 @@ class Distribuicao:
         p = lamb/n
         return self.binomial_simulada(n, p)
 
-
     def hipergeometrica(self, M, m, E, e):
         return self.combinacao(M, m) * self.combinacao(E, e)/ self.combinacao(M+E, m+e)
+
+    def z_normal(self, x, media, desvio):
+        return (x - media) / desvio
+
+    def fdp_normal(self, x, media, desvio):
+        #z = self.z_normal(x, media, desvio)
+        f = 1/(math.sqrt(2 * math.pi) * desvio) * math.exp(-(x - media)**2 / (2 * desvio**2))
+        return f
+
+    def y_max(self, media, desvio):
+        return self.fdp_normal(media,media, desvio)
+
+    def monte_carloB(self):
+        c = self.y_max(6, 2.5)
+        a = 0
+        b = 8.9
+        num_pontos = 100000
+        cont = 0
+
+        for i in range(num_pontos):
+            r1 = random.random()
+            r2 = random.random()
+            y = c * r1
+            x = (b - a)*r2 + a
+            if self.fdp_normal(x, 6, 2.5) > y:
+                cont += 1
+        return cont * c * (b - a) /num_pontos
