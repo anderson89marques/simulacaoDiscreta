@@ -107,17 +107,16 @@ class Distribuicao:
         return (x - media) / desvio
 
     def fdp_normal(self, x, media, desvio):
-        #z = self.z_normal(x, media, desvio)
         f = 1/(math.sqrt(2 * math.pi) * desvio) * math.exp(-(x - media)**2 / (2 * desvio**2))
         return f
 
     def y_max(self, media, desvio):
-        return self.fdp_normal(media,media, desvio)
+        return self.fdp_normal(media, media, desvio)
 
-    def monte_carloB(self):
-        c = self.y_max(6, 2.5)
-        a = 0
-        b = 8.9
+    def monte_carlo_fdp_normal(self, func, media, desvio, inicio, fim):
+        c = self.y_max(media, desvio)
+        a = inicio
+        b = fim
         num_pontos = 100000
         cont = 0
 
@@ -126,6 +125,6 @@ class Distribuicao:
             r2 = random.random()
             y = c * r1
             x = (b - a)*r2 + a
-            if self.fdp_normal(x, 6, 2.5) > y:
+            if self.fdp_normal(x, media, desvio) > y:
                 cont += 1
-        return cont * c * (b - a) /num_pontos
+        return cont * c * (b - a) / num_pontos
