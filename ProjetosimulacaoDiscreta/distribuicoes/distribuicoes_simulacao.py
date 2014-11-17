@@ -110,6 +110,10 @@ class Distribuicao:
         f = 1/(math.sqrt(2 * math.pi) * desvio) * math.exp(-(x - media)**2 / (2 * desvio**2))
         return f
 
+    def fdp_exponencial(self, x, lamb):
+        f = lamb * math.exp(-lamb * x)
+        return f
+
     def y_max(self, media, desvio):
         return self.fdp_normal(media, media, desvio)
 
@@ -126,5 +130,22 @@ class Distribuicao:
             y = c * r1
             x = (b - a)*r2 + a
             if self.fdp_normal(x, media, desvio) > y:
+                cont += 1
+        return cont * c * (b - a) / num_pontos
+
+    def monte_carlo(self, func, inicio, fim, lamb):
+        #func(0, lamb) calcular o y max da função
+        c = func(0, lamb)
+        a = inicio
+        b = fim
+        num_pontos = 100000
+        cont = 0
+
+        for i in range(num_pontos):
+            r1 = random.random()
+            r2 = random.random()
+            y = c * r1
+            x = (b - a)*r2 + a
+            if func(x, lamb) > y:
                 cont += 1
         return cont * c * (b - a) / num_pontos
