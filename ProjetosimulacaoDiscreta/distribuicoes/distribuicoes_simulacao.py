@@ -32,11 +32,20 @@ class Distribuicao:
             r += c
         return r
 
+    def binomialC(self, n, p, k1, k2):
+        r = 0.0
+        print(k1)
+        print(k2)
+        for x in range(k1-1, k2):
+            c = self.binomialA(n, p, x+1)
+            r += c
+        return r
+
     #retorna o número de sucessos
     def binomial_simulada(self, n, p):
         cont = 0
         for i in range(n):
-            if random.uniform(0, 1) <= p:
+            if random.random() <= p:
                 cont += 1
         return cont
 
@@ -97,13 +106,19 @@ class Distribuicao:
     def poisson_por_binomial(self, lamb):
         n = 1500 #n grande
         p = lamb/n
-        print(p)
         return self.binomial_simulada(n, p)
 
     def hipergeometrica(self, M, m, E, e):
         return self.combinacao(M, m) * self.combinacao(E, e)/ self.combinacao(M+E, m+e)
 
     def z_normal(self, x, media, desvio):
+        print("////")
+        print(x)
+        print(media)
+        print(desvio)
+        print(x-media)
+        print((x - media) / desvio)
+        print("////////")
         return (x - media) / desvio
 
     def fdp_normal(self, x, media, desvio):
@@ -118,9 +133,14 @@ class Distribuicao:
         return self.fdp_normal(media, media, desvio)
 
     def monte_carlo_fdp_normal(self, func, media, desvio, inicio, fim):
+        self.z_normal(inicio, media, desvio)
+        self.z_normal(fim, media, desvio)
+
         c = self.y_max(media, desvio)
         a = inicio
         b = fim
+        print("a : b: %.4f : %.4f" % (a, b))
+        print("c: %.4f" % c)
         num_pontos = 100000
         cont = 0
 
