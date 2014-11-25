@@ -112,13 +112,6 @@ class Distribuicao:
         return self.combinacao(M, m) * self.combinacao(E, e)/ self.combinacao(M+E, m+e)
 
     def z_normal(self, x, media, desvio):
-        print("////")
-        print(x)
-        print(media)
-        print(desvio)
-        print(x-media)
-        print((x - media) / desvio)
-        print("////////")
         return (x - media) / desvio
 
     def fdp_normal(self, x, media, desvio):
@@ -133,14 +126,9 @@ class Distribuicao:
         return self.fdp_normal(media, media, desvio)
 
     def monte_carlo_fdp_normal(self, func, media, desvio, inicio, fim):
-        self.z_normal(inicio, media, desvio)
-        self.z_normal(fim, media, desvio)
-
         c = self.y_max(media, desvio)
         a = inicio
         b = fim
-        print("a : b: %.4f : %.4f" % (a, b))
-        print("c: %.4f" % c)
         num_pontos = 100000
         cont = 0
 
