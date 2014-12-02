@@ -1,5 +1,7 @@
 __author__ = 'andersonmarques'
+
 from distributions.distribuicoes_simulacao import Distribuicao
+
 d = Distribuicao()
 
 experimentos = 10000

@@ -1,6 +1,8 @@
 __author__ = 'anderson'
 
+
 from distributions.distribuicoes_simulacao import Distribuicao
+
 
 distri = Distribuicao()
 # m = lamb*tempo => 2/1 * 2 = 4

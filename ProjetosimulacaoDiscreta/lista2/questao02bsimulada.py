@@ -1,6 +1,7 @@
 __author__ = 'anderson'
 from distributions.distribuicoes_simulacao import Distribuicao
 
+
 experimentos = 10000
 cont = 0
 dist = Distribuicao()

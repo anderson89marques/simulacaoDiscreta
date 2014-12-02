@@ -1,0 +1,11 @@
+__author__ = 'anderson'
+<<<<<<< HEAD
+from distributions.distribuicoes_simulacao import Distribuicao
+=======
+from distribuicoes.distribuicoes_simulacao import Distribuicao
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
+
+distri = Distribuicao()
+
+r = distri.hipergeometrica(10, 3, 9, 4)
+print("Probabilidade: %.4f" % (r))

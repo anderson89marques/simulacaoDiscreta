@@ -4,8 +4,11 @@
     <list default="true" id="71403a8f-3d89-4be4-8296-01af9329932b" name="Default" comment="" />
     <ignored path="ProjetosimulacaoDiscreta.iws" />
     <ignored path=".idea/workspace.xml" />
+<<<<<<< HEAD
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+=======
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +17,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao02asimulada.coverage" NAME="questao02asimulada Coverage Results" MODIFIED="1414720913781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
     <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao02b.coverage" NAME="questao02b Coverage Results" MODIFIED="1416964077884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
     <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao04.coverage" NAME="questao04 Coverage Results" MODIFIED="1414726617715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
@@ -44,6 +48,33 @@
     <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao4b.coverage" NAME="questao4b Coverage Results" MODIFIED="1414726736397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
     <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao05c.coverage" NAME="questao05c Coverage Results" MODIFIED="1416964169396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
     <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao04a.coverage" NAME="questao04a Coverage Results" MODIFIED="1416964104303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+=======
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao03.coverage" NAME="questao03 Coverage Results" MODIFIED="1414723449805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao05a.coverage" NAME="questao05a Coverage Results" MODIFIED="1416925095599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao01a.coverage" NAME="questao01a Coverage Results" MODIFIED="1415380967585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao02asimulada.coverage" NAME="questao02asimulada Coverage Results" MODIFIED="1414720913781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao4bbin.coverage" NAME="questao4bbin Coverage Results" MODIFIED="1414726714357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao14a.coverage" NAME="questao14a Coverage Results" MODIFIED="1416927086964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$testefdpnormal.coverage" NAME="testefdpnormal Coverage Results" MODIFIED="1415816121561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao06.coverage" NAME="questao06 Coverage Results" MODIFIED="1414729388353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao06b.coverage" NAME="questao06b Coverage Results" MODIFIED="1414729403376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao03aporbinomial.coverage" NAME="questao03aporbinomial Coverage Results" MODIFIED="1416925178669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao4abin.coverage" NAME="questao4abin Coverage Results" MODIFIED="1414726585398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao4b.coverage" NAME="questao4b Coverage Results" MODIFIED="1414726736397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao04.coverage" NAME="questao04 Coverage Results" MODIFIED="1414726617715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao09.coverage" NAME="questao09 Coverage Results" MODIFIED="1416926135391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista1" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao02a.coverage" NAME="questao02a Coverage Results" MODIFIED="1415381820289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao05b.coverage" NAME="questao05b Coverage Results" MODIFIED="1416925167427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao07.coverage" NAME="questao07 Coverage Results" MODIFIED="1416249873605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao05d.coverage" NAME="questao05d Coverage Results" MODIFIED="1415820158393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao03a.coverage" NAME="questao03a Coverage Results" MODIFIED="1416925388639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao14b.coverage" NAME="questao14b Coverage Results" MODIFIED="1416928198992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao02bsimulada.coverage" NAME="questao02bsimulada Coverage Results" MODIFIED="1414720801804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao5.coverage" NAME="questao5 Coverage Results" MODIFIED="1414728093604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao05c.coverage" NAME="questao05c Coverage Results" MODIFIED="1415819521440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao01b.coverage" NAME="questao01b Coverage Results" MODIFIED="1415381275989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/listaFinal" />
+    <SUITE FILE_PATH="coverage/ProjetosimulacaoDiscreta$questao02b.coverage" NAME="questao02b Coverage Results" MODIFIED="1414720604713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lista2" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -57,46 +88,121 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="questao14b.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listaFinal/questao14b.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="342">
               <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+=======
+      <file leaf-file-name="questao04b.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao04b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="questao09.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao09.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="42" />
+              <folding>
+                <element signature="e#31#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questao14a.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao14a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questao14b.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao14b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.48247424" vertical-offset="0" max-vertical-offset="485">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questao07.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao07.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+              <caret line="5" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="68" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="questao02a.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listaFinal/questao02a.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="234">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+=======
+      <file leaf-file-name="questao03aporbinomial.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao03aporbinomial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="35" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="questao05a.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listaFinal/questao05a.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="180">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+      <file leaf-file-name="questao05a.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao05a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="4" column="84" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="84" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="distribuicoes_simulacao.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/distributions/distribuicoes_simulacao.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="1728" max-vertical-offset="2916">
               <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+=======
+      <file leaf-file-name="questao05b.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao05b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="4" column="81" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="84" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="questao12a.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/listaFinal/questao12a.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,6 +211,24 @@
               <folding>
                 <element signature="e#24#86#0" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="questao05c.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao05c.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+              <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questao05d.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listaFinal/questao05d.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+              <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
             </state>
           </provider>
         </entry>
@@ -117,6 +241,7 @@
     </FindUsagesManager>
   </component>
   <component name="IdeDocumentHistory">
+<<<<<<< HEAD
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/listaFinal/questao08a.py" />
@@ -131,6 +256,42 @@
     <option name="y" value="24" />
     <option name="width" value="1280" />
     <option name="height" value="776" />
+=======
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lista2/questao02bsimulada.py" />
+        <option value="$PROJECT_DIR$/lista2/questao02asimulada.py" />
+        <option value="$PROJECT_DIR$/lista2/questao03.py" />
+        <option value="$PROJECT_DIR$/lista2/questao04.py" />
+        <option value="$PROJECT_DIR$/lista2/questao4b.py" />
+        <option value="$PROJECT_DIR$/lista2/questao04a.py" />
+        <option value="$PROJECT_DIR$/lista2/questao4abin.py" />
+        <option value="$PROJECT_DIR$/lista2/questao4bbin.py" />
+        <option value="$PROJECT_DIR$/lista2/questao5.py" />
+        <option value="$PROJECT_DIR$/lista2/questao06.py" />
+        <option value="$PROJECT_DIR$/lista2/questao06b.py" />
+        <option value="$PROJECT_DIR$/lista2/questao06a.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao01a.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao01b.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao02a.py" />
+        <option value="$PROJECT_DIR$/listaFinal/testefdpnormal.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao05b.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao05a.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao05c.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao05d.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao07.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao09.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao14a.py" />
+        <option value="$PROJECT_DIR$/listaFinal/questao14b.py" />
+        <option value="$PROJECT_DIR$/distribuicoes/distribuicoes_simulacao.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="-4" />
+    <option name="width" value="1366" />
+    <option name="height" value="772" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -200,7 +361,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="distributions" />
+=======
+              <option name="myItemId" value="distribuicoes" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -217,14 +382,18 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="FullScreen" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="true" />
+=======
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings />
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dist" />
@@ -232,6 +401,10 @@
   </component>
   <component name="RunManager" selected="Python.questao12a">
     <configuration default="false" name="questao05c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.questao14b">
+    <configuration default="false" name="questao14b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -244,26 +417,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjetosimulacaoDiscreta" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao05c.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao14b.py" />
+      <option name="PARAMETERS" value="" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="questao14b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="questao03aporbinomial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="/usr/local/bin/python3.4" />
+=======
+      <option name="SDK_HOME" value="" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listaFinal" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjetosimulacaoDiscreta" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao14b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -274,61 +461,108 @@
       <method />
     </configuration>
     <configuration default="false" name="questao01b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao03aporbinomial.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="questao03a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="/usr/local/bin/python3.4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listaFinal" />
       <option name="IS_MODULE_SDK" value="false" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listaFinal" />
+      <option name="IS_MODULE_SDK" value="true" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjetosimulacaoDiscreta" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao01b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao03a.py" />
+      <option name="PARAMETERS" value="" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="questao08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="questao14a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="/usr/local/bin/python3.4" />
+=======
+      <option name="SDK_HOME" value="" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listaFinal" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjetosimulacaoDiscreta" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao14a.py" />
+      <option name="PARAMETERS" value="" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="questao12a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration default="false" name="questao09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="/usr/local/bin/python3.4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listaFinal" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lista1" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjetosimulacaoDiscreta" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao12a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lista1/questao09.py" />
+      <option name="PARAMETERS" value="" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
@@ -406,16 +640,26 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="/usr/local/bin/python3.4" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/listaFinal" />
+=======
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ProjetosimulacaoDiscreta" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listaFinal/questao14b.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+=======
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -444,6 +688,7 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -458,6 +703,8 @@
       <option name="ADDITIONAL_ARGS" value="" />
       <method />
     </configuration>
+=======
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -478,6 +725,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-options />
       <gulpfile />
@@ -486,6 +734,8 @@
       <envs />
       <method />
     </configuration>
+=======
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -506,6 +756,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -555,22 +806,47 @@
         <item index="2" class="java.lang.String" itemvalue="Python.questao14b" />
         <item index="3" class="java.lang.String" itemvalue="Python.questao01b" />
         <item index="4" class="java.lang.String" itemvalue="Python.questao05c" />
+=======
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.questao14b" />
+      <item index="1" class="java.lang.String" itemvalue="Python.questao03aporbinomial" />
+      <item index="2" class="java.lang.String" itemvalue="Python.questao03a" />
+      <item index="3" class="java.lang.String" itemvalue="Python.questao14a" />
+      <item index="4" class="java.lang.String" itemvalue="Python.questao09" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.questao14b" />
+        <item index="1" class="java.lang.String" itemvalue="Python.questao14a" />
+        <item index="2" class="java.lang.String" itemvalue="Python.questao09" />
+        <item index="3" class="java.lang.String" itemvalue="Python.questao03a" />
+        <item index="4" class="java.lang.String" itemvalue="Python.questao03aporbinomial" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+<<<<<<< HEAD
   <component name="SvnConfiguration" myUseAcceleration="nothing">
     <configuration useDefault="false" />
+=======
+  <component name="SvnConfiguration">
+    <configuration />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="71403a8f-3d89-4be4-8296-01af9329932b" name="Default" comment="" />
       <created>1414717357056</created>
+<<<<<<< HEAD
       <option name="number" value="Default" />
+=======
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <updated>1414717357056</updated>
     </task>
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
       <are-packages-shown value="false" />
@@ -608,6 +884,23 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27890626" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31009957" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18106061" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17103235" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -654,6 +947,7 @@
     </option>
   </component>
   <component name="XDebuggerManager">
+<<<<<<< HEAD
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="python-line">
@@ -671,11 +965,21 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="342">
           <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
           <folding />
+=======
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao01a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342">
+          <caret line="13" column="50" selection-start-line="1" selection-start-column="0" selection-end-line="13" selection-end-column="50" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/listaFinal/questao02a.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="234">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
@@ -686,10 +990,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="180">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="234">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/distribuicoes/distribuicoes_simulacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2124">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/distributions/distribuicoes_simulacao.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1728" max-vertical-offset="2916">
@@ -712,26 +1028,152 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="342">
           <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+=======
+    <entry file="file://$PROJECT_DIR$/lista2/questao4b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="198">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="324">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="252">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao06a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="378">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao06b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="396">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao01asimulada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="428">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao02a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <caret line="4" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao02bsimulada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao04a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+          <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao4bbin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="8" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="324">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="252">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao06a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="378">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao06b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.16" vertical-offset="0" max-vertical-offset="396">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista1/questao02a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.088452086" vertical-offset="0" max-vertical-offset="407">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao01bsimulada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao02a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="234">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/lista1/questao03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao05a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="180">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/lista1/questao04porformula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao08.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="432">
@@ -749,11 +1191,33 @@
     <entry file="file://$PROJECT_DIR$/distributions/distribuicoes_simulacao.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2916">
+=======
+    <entry file="file://$PROJECT_DIR$/lista1/questao04simulada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lista1/questao05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista1/questao06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382">
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../../WebResultadosSimulacaoPyramid/FTPSService/ftpscliente.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
@@ -779,26 +1243,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
           <caret line="2" column="62" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/lista1/questao08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lista1/questao07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista1/questao02b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista1/questao09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="382">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao02asimulada.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42105263" vertical-offset="0" max-vertical-offset="342">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao02a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="195">
           <caret line="5" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/lista2/questao02b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="355">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao05a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="150">
           <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/lista2/questao01a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao08.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="375">
@@ -817,25 +1334,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1470" max-vertical-offset="2430">
           <caret line="98" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/lista2/questao01b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao4b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista2/questao4abin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao03aporbinomial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/distribuicoes/distribuicoes_simulacao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1502" max-vertical-offset="2970">
+          <caret line="91" column="12" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao01b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="432">
+          <caret line="18" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="50" />
+          <folding />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/listaFinal/questao02a.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="234">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
+          <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
@@ -847,18 +1408,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="342">
           <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
+=======
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao02b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
+          <caret line="12" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao03a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao05a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="180">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao03aporbinomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="485">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="35" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao08.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="432">
@@ -898,19 +1481,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1728" max-vertical-offset="2916">
           <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao01a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao04a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="485">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao04b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="485">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao05a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="4" column="84" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao05b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="4" column="81" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao05c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="216">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/listaFinal/questao12a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.989011" vertical-offset="0" max-vertical-offset="558">
           <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
           <folding>
             <element signature="e#24#86#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao05d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <caret line="8" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
+          <caret line="5" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="485">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="e#31#42#0" expanded="true" />
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
           </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+  </component>
+</project>
+=======
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao14a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="485">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listaFinal/questao14b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48247424" vertical-offset="0" max-vertical-offset="485">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
 </project>
+
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8

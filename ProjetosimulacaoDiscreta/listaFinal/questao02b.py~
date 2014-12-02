@@ -1,0 +1,16 @@
+__author__ = 'anderson'
+<<<<<<< HEAD
+from distributions.distribuicoes_simulacao import Distribuicao
+=======
+from distribuicoes.distribuicoes_simulacao import Distribuicao
+>>>>>>> 6908eb6e64903ff3069ea67b176e229821c460b8
+
+experimentos = 10000
+cont = 0
+distri = Distribuicao()
+for x in range(experimentos):
+    r = distri.binomial_simulada(40,0.58)
+
+    if 15 <= r <= 20:
+        cont += 1
+print("%.4f" % (cont/experimentos))

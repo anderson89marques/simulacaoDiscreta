@@ -1,5 +1,6 @@
 __author__ = 'andersonmarques'
 import math
+
 from distributions.distribuicoes_simulacao import Distribuicao
 
 def funcao(x, lamb=1):

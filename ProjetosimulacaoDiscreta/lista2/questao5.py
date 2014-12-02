@@ -1,5 +1,7 @@
 __author__ = 'anderson'
+
 from distributions.distribuicoes_simulacao import Distribuicao
+
 dist = Distribuicao()
 resp = 0
 n = 100
